@@ -1,4 +1,4 @@
-# multi-agent-pdac-research
+# pdac-research-agents
 
 AI agents that research pancreatic cancer across multiple domains, then combine findings to propose novel drug combinations and treatment ideas that haven't been tried yet.
 
