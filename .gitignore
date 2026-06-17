@@ -1,0 +1,14 @@
+.env
+pdac_findings/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# os
+.DS_Store
+Thumbs.db

@@ -1,0 +1,55 @@
+23:19:29  INFO      Command: quick
+23:19:29  INFO      Quick mode — 3 agents: ['kras_mutations', 'microbiome_fungi', 'drug_repurposing']
+23:19:29  INFO      =======================================================
+23:19:29  INFO      PDAC Research Intelligence — starting run
+23:19:29  INFO      Agents: 3 | Model: claude-sonnet-4-6 | Searches per agent: 5
+23:19:29  INFO      =======================================================
+23:19:29  INFO      Launching 3 agents in parallel...
+23:19:29  INFO      [KRAS & Oncogene Specialist] Starting research + novel ideation
+23:19:29  DEBUG     [KRAS & Oncogene Specialist] API call attempt 1/6
+23:19:29  INFO      [Microbiome & Mycobiome Specialist] Starting research + novel ideation
+23:19:29  DEBUG     [Microbiome & Mycobiome Specialist] API call attempt 1/6
+23:19:29  INFO      [Drug Repurposing Specialist] Starting research + novel ideation
+23:19:29  DEBUG     [Drug Repurposing Specialist] API call attempt 1/6
+23:20:19  DEBUG     [Microbiome & Mycobiome Specialist] Success on attempt 1
+23:20:19  DEBUG     [Microbiome & Mycobiome Specialist] Web search #1 executed
+23:20:19  DEBUG     [Microbiome & Mycobiome Specialist] Web search #2 executed
+23:20:19  DEBUG     [Microbiome & Mycobiome Specialist] Web search #3 executed
+23:20:19  DEBUG     [Microbiome & Mycobiome Specialist] Web search #4 executed
+23:20:19  INFO      [Microbiome & Mycobiome Specialist] Done — 4 web searches, 0 novel proposals generated, 2246 output tokens
+23:20:19  INFO      Progress: 1/3 agents complete
+23:20:25  DEBUG     [KRAS & Oncogene Specialist] Success on attempt 1
+23:20:25  DEBUG     [KRAS & Oncogene Specialist] Web search #1 executed
+23:20:25  DEBUG     [KRAS & Oncogene Specialist] Web search #2 executed
+23:20:25  DEBUG     [KRAS & Oncogene Specialist] Web search #3 executed
+23:20:25  DEBUG     [KRAS & Oncogene Specialist] Web search #4 executed
+23:20:25  INFO      [KRAS & Oncogene Specialist] Done — 4 web searches, 0 novel proposals generated, 2259 output tokens
+23:20:25  INFO      Progress: 2/3 agents complete
+23:20:32  DEBUG     [Drug Repurposing Specialist] Success on attempt 1
+23:20:32  DEBUG     [Drug Repurposing Specialist] Web search #1 executed
+23:20:32  DEBUG     [Drug Repurposing Specialist] Web search #2 executed
+23:20:32  DEBUG     [Drug Repurposing Specialist] Web search #3 executed
+23:20:32  DEBUG     [Drug Repurposing Specialist] Web search #4 executed
+23:20:32  DEBUG     [Drug Repurposing Specialist] Web search #5 executed
+23:20:32  INFO      [Drug Repurposing Specialist] Done — 5 web searches, 1 novel proposals generated, 2325 output tokens
+23:20:32  INFO      Progress: 3/3 agents complete
+23:20:32  INFO      All agents done in 62.9s
+23:20:32  INFO      Succeeded: 3/3
+23:20:32  INFO      Web searches performed: 13
+23:20:32  INFO      Novel proposals generated: 1
+23:20:32  INFO      Total tokens used: 184,914
+23:20:32  INFO      [Synthesis] Building cross-domain hypothesis prompt
+23:20:32  INFO      [Synthesis] Synthesizing 3 agents with 1 total novel proposals
+23:20:32  DEBUG     [Synthesis] Including Microbiome & Mycobiome Specialist: 1500 chars
+23:20:32  DEBUG     [Synthesis] Including KRAS & Oncogene Specialist: 1500 chars
+23:20:32  DEBUG     [Synthesis] Including Drug Repurposing Specialist: 1500 chars
+23:20:32  INFO      [Synthesis] Prompt ready (6305 chars, ~1576 tokens estimated)
+23:20:32  DEBUG     [Synthesis] API call attempt 1/6
+23:20:34  DEBUG     retry-after header says 239s, using 241s
+23:20:34  WARNING   [Synthesis] Rate limit hit — API says wait 241s (attempt 1/6)
+23:24:35  DEBUG     [Synthesis] API call attempt 2/6
+23:25:17  DEBUG     [Synthesis] Success on attempt 2
+23:25:17  INFO      [Synthesis] Done — 1668 input tokens, 2000 output tokens
+23:25:17  INFO      [Save] Writing to ./pdac_findings/run_20260616_232517.txt
+23:25:17  INFO      [Save] Done — 25.7 KB written to ./pdac_findings/run_20260616_232517.txt
+23:25:17  INFO      Full run complete in 348.3s — results saved to ./pdac_findings/run_20260616_232517.txt

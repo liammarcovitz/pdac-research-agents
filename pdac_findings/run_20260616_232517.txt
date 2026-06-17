@@ -1,0 +1,337 @@
+PDAC RESEARCH RUN — 2026-06-16 23:25:17
+======================================================================
+
+[MICROBIOME & MYCOBIOME SPECIALIST]
+----------------------------------------
+Now I have sufficient literature to synthesize a comprehensive, rigorous research document. Let me compose the full structured response.
+
+---
+
+# PDAC Microbiome & Mycobiome: Literature Review + Novel Research Proposals
+
+---
+
+## WHAT THE LITERATURE SHOWS
+
+---
+
+### FINDING 1: *Malassezia* Is the Dominant Oncogenic Fungus in the PDAC Tumor Microenvironment
+
+
+*Malassezia* is the most prevalent fungal genus in PDAC, and ablation of the mycobiome with antifungal medications such as amphotericin B or fluconazole protected mice against oncogenic progression.
+ This is not a passive bystander relationship: 
+cancer grew 20% faster in the pancreases of mice repopulated with *Malassezia*, while the presence of other fungal species did not affect PDAC growth.
+
+
+**Route of colonization:** 
+A possible route for microbial migration from the duodenum to the pancreas is retrograde transfer via the opening of the sphincter of Oddi, which controls the flow of digestive juices.
+ Furthermore, 
+the PDAC-related *Malassezia* genus is an overlooked oral commensal, as it was recently found in high prevalence and abundance in the saliva of healthy individuals, although it was previously considered a commensal and pathogen of skin and lungs.
+
+
+**MECHANISM:** 
+The binding of mannose-binding lectin (MBL) to glycans of the fungal wall and lectin pathway activation are required for oncogenic progression. Deletion of MBL or C3 in the extra-tumoral compartment, or knockdown of C3ar in tumor cells, were both protective against tumor growth in mouse models.
+ In other words: 
+pathogenic fungi promote PDAC progression by driving the complement cascade via a mannose-binding lectin (MBL)–C3 axis.
+
+
+**CURRENT DRUG/TARGET:** Amphotericin B and fluconazole (preclinical only). 
+There is a suggestion that using antifungal agents at some point in the treatment of pancreatic cancer may result in shrinking or slowing down tumor growth,
+ but no formal clinical trial has yet been completed testing an antifungal specifically for mycobiome ablation in PDAC patients.
+
+**GAP:** The specific *Malassezia* species (e.g., *M. globosa*, *M. restricta*, *M. sympodialis*) responsible for the strongest MBL–C3 activation have not been individually characterized for oncogenic potency. It remains unknown whether targeting MBL pharmacologically (rather than killing the fungus) would be sufficient.
+
+---
+
+### FINDING 2: The Fungal Mycobiome Drives IL-33 Secretion, Creating a Pro-Tumorigenic Type 2 Immune Milieu
+
+
+Oncogenic KRAS^G12D^ increases IL-33 expression in PDAC cells, which recruits and activates TH2 and ILC2 cells. Cancer-cell-specific deletion of IL-33 reduces TH2 and ILC2 recruitment and promotes tumor regression. Unexpectedly, IL-33 secretion is dependent on the intratumoral fungal mycobiome.
+
+
+
+Genetic deletion of IL-33 or antifungal treatment decreases TH2 and ILC2 infiltration and increases survival. High IL-33 expression is observed in approximately 20% of human PDAC, and expression is mainly restricted to cancer cells.
+
+
+The downstream consequence of this IL-33/ILC2 axis: 
+intratumoral fungus-mediated IL-33 secretion recruits and activates Th2 cells and ILC2s, which stimulate tumor growth by secreting pro-tumorigenic cytokines such as IL-4, IL-5, and IL-13.
+
+
+**KRAS coupling:** 
+Stromal IL-33 expression remains high and dependent on epithelial KRAS throughout carcinogenesis; environmental stress induces IL-33 secretion. Using compartment-specific IL-33 knockout mice, lack of stromal IL-33 leads to profound reprogramming of multiple TME components including CAFs, myeloid cells, and lymphocytes. Notably, loss of stromal IL-33 leads to an increase in CD8+ T-cell infiltration and activation and, ultimately, reduced tumor growth.
+
+
+An intriguing but underexplored paradox: 
+IL-33-activated ILC2s can also induce the formation of tertiary lymphoid structures (TLS) within the PDAC TME, findings that open new avenues for therapeutic strategies aimed at enhancing TLS-mediated antitumor immunity.
+
+
+**CURRENT DRUG/TARGET:** No anti-IL-33 or anti-ST2 (IL-33 receptor) agents are in PDAC trials yet. Anti-IL-33 monoclonal antibodies (e.g., itepekimab) exist and are approved in other indications.
+
+**GAP:** The molecular trigger linking fungal cell-wall components to IL-33 upregulation in KRAS-mutant epithelial cells is undefined. 
+A definitive molecular link between fungal components and IL-33 release remains to be defined.
+ It is also unknown whether the ILC2 → TLS pathway could be selectively amplified (rather than globally suppressed) to convert the immunosuppressive TME into an immunostimulatory one.
+
+---
+
+### FINDING 3: Bacterial Dysbiosis Reprograms Tumor-Associated Macrophages and the PDAC TME
+
+
+Proteobacteria, Synergistetes, and Euryarchaeota are enriched in PDAC patients, reprogramming tumor-associated macrophages (TAMs) toward a pro-tumor M2-like phenotype through Toll-like receptors (TLRs).
+ Intratumoral bacteria including *Fusobacterium nucleatum* and *Porphyromonas gingivalis* are independently implicated. 
+In a study of 85 PDAC patients and 57 matched healthy controls, gut microbial diversity was found to be significantly lower in PDAC patients.
+
+
+Notably: 
+Lactobacillus-derived indole fosters TAM polarization toward an immune-suppressive phenotype through the aryl hydrocarbon receptor (AhR).
+ This is a critical caveat—not all *Lactobacillus* strains are beneficial in PDAC.
+
+**MECHANISM:** 
+In gastrointestinal tumors, the gut microbiota influences tumor growth by dysbiosis, release of bacterial toxins, and modulation of host signaling pathways and immune status.
+
+
+**CURRENT DRUG/TARGET:** 
+One exploratory arm of a current phase II trial (PANORAMIX) is assessing the efficacy and safety of the addition of fluoroquinolone ciprofloxacin to gemcitabine-based chemotherapy in second-line PDAC.
+ A doxycycline trial (NCT02775695) in resectable PDAC evaluated this antibiotic's ability to target cancer stem cells.
+
+**EFFECT ON GEMCITABINE:** 
+Aykut and collaborators reported that ablation of the mycobiome affected the
+
+[KRAS & ONCOGENE SPECIALIST]
+----------------------------------------
+Now I have a comprehensive body of evidence to work from. Let me synthesize everything into the structured analysis requested.
+
+---
+
+# KRAS MUTATIONS IN PDAC: STATE OF THE FIELD AND NOVEL HYPOTHESES
+
+---
+
+## WHAT THE LITERATURE SHOWS
+
+---
+
+### FINDING 1: The KRAS Mutation Landscape in PDAC Is Allele-Heterogeneous, and Most Clinically Relevant Alleles Lack Approved Therapies
+
+**MECHANISM:**
+
+The KRAS oncogene is mutated in up to 90% of all PDACs, but the most common mutations — G12D (44%), G12V (34%), and G12R (20%) — are not amenable to treatment by KRAS G12C-directed cysteine-reactive inhibitors such as Sotorasib and Adagrasib.
+ The reason is mechanistic: 
+the G12C inhibitors work via a thio-reactive warhead that covalently attaches to the cysteine-12 thiol group, allowing the compound to bind under the switch-II region — a pocket only accessible in the GDP-bound form of KRAS G12C.
+ G12D, G12V, and G12R lack this exploitable cysteine.
+
+Each mutant has distinct downstream signaling biases: 
+G12D preferentially activates the PI3K/AKT pathway; G12V displays lower intrinsic GTPase activity and stronger activation of the RAF–MEK–ERK pathway; G12R provides distinct signaling biases, including impaired interaction with PI3Kα and altered macropinocytosis, potentially leading to differential metabolic dependencies.
+
+
+**CURRENT DRUG/TARGET:**
+
+The FDA announced "Breakthrough Therapy" designation for daraxonrasib in June 2025; the drug appears active across G12D, G12V, G12R, and Q61X mutations.
+ 
+Among efficacy-evaluable PDAC patients, the objective response rate was 52% with VS-7375, described as a potential "best-in-class KRAS G12D (ON/OFF) inhibitor."
+ 
+MRTX1133 (a KRAS G12D-directed inhibitor) has entered clinical trials.
+
+
+**GAP:** Response rates, even at 52%, imply that half of PDAC patients on the best G12D inhibitors do not respond — and those who do respond eventually relapse. The mechanistic reasons for *primary* non-response, especially in the G12R subtype, remain poorly understood.
+
+---
+
+### FINDING 2: KRAS G12R Is Functionally and Structurally Distinct — and Uniquely Vulnerable
+
+**MECHANISM:**
+
+KRASG12R fails to bind the PI3K catalytic subunit p110α — an essential effector for KRAS-driven cancer initiation — resulting in KRAS-independent macropinocytosis; X-ray crystallography revealed that KRASG12R, unlike KRASG12D, disrupts the switch II (SII) region critical for effector interaction.
+
+
+
+Additionally, PTEN — a negative regulator of PI3K signaling — is inactivated in PDAC by intramolecular disulfide formation, which elevated overall PI3K signaling and reduced the dependency of PI3K signaling on KRAS. Oxidation of PTEN was independent of KRAS mutation status. Nutrient-limiting conditions mimicking the PDAC tumor microenvironment further elevated PTEN oxidation and significantly increased macropinocytosis.
+
+
+
+KRAS G12R-mutant pancreatic cancer features limited ERK/MAPK transcriptional activity, and mutant/wild-type RAS cross-talk and stoichiometric deficiencies are determinants of sensitivity to targeted therapies in G12R PDAC.
+
+
+**CURRENT DRUG/TARGET:** There are no approved or late-clinical-stage drugs specifically designed for G12R's unique PI3K-independent, macropinocytosis-altered biology. 
+Combined inhibition of mTOR and lysosomal processing of internalized protein eliminates macropinocytosis-mediated resistance, and mTORC2 (rather than mTORC1) appears to be an important regulator of protein scavenging — suggesting combined mTOR + lysosomal scavenging blockade as a strategy.
+
+
+**GAP:** Whether G12R-specific PDAC, which is KRAS-independent for PI3K signaling, has unique collateral dependencies (e.g., on wild-type KRAS dimerization, RAF isoforms, or non-canonical nutrient sensing) that could be pharmacologically exploited remains largely unexplored.
+
+---
+
+### FINDING 3: Resistance to KRAS Inhibitors Is Multi-Mechanistic and Involves Cell-State Plasticity
+
+**MECHANISM:**
+
+In PDAC cell lines and organoid models treated with MRTX1133, epithelial-to-mesenchymal transition (EMT) and PI3K-AKT-mTOR signaling associate with resistance. In KPC mouse models, drug resistance emerged accompanied by amplifications of *Kras*, *Yap1*, *Myc*, *Cdk6*, and *Abcb1a/b*, alongside co-evolution of drug-resistant transcriptional programs.
+
+
+
+Resistance mechanisms can be categorized as: 1) upstream signaling events (RTK mutational activation, amplification, fusions); 2) RAS-level events (KRAS/NRAS mutations or amplifications); and 3) downstream mutations that hyperactivate PI3K and ERK MAPK signaling. Most known resistance pathways converge on reactivation of ERK MAPK signaling.
+
+
+Critically, cell-state switching is a non-genetic resistance route: 
+the classical PDAC subtype, which exhibits high expression of adhesion-associated and epithelial genes, was recently shown to be associated with resistance to MRTX-1133, which is surprising given that epithelial-like KRAS-mutant cancers are generally dependent on mutant KRAS for survival. Marker genes for the classical subtype include endodermal or gastric lineage markers such as TFFs and mucins, which may contribute to observed resistance.
+
+
+A newly discovered immune evasion mechanism: 
+immunoprofiling revealed that CD24, a "do not eat me" signal, is significantly upregulated on cancer cells upon KRAS G12C inhibitor treatment.
+ 
+Similar findings were observed in KRASG12D-driven PDAC, revealing CD24 as a common adaptive mechanism that may limit KRAS inhibitor efficacy across alleles.
+
+
+**CURRENT DRUG/TARGET:** 
+Combination treatment with KRASG12D inhibition and chemotherapy significantly improved tumor control in PDAC mouse models.
+ Vertical pathway inhibition (KRAS + SHP2, KRAS + MEK, KRAS + EGFR) is under early clinical investigation.
+
+**GAP:** The YAP1 amplification observed in resistant tumors lacks a specific clinical-grade inhibitor in PDAC. The *Abcb1a/b* (P-glycoprotein/MDR1) drug efflux amplification as a resistance mechanism to KRAS inhibitors specifically has not been therapeutically addressed.
+
+[DRUG REPURPOSING SPECIALIST]
+----------------------------------------
+Below is my full structured research and analysis. Literature findings are grounded in citations; all novel proposals are clearly marked **[NEW IDEA]**.
+
+---
+
+# PDAC DRUG REPURPOSING: FULL ANALYSIS
+
+---
+
+## WHAT THE LITERATURE SHOWS
+
+---
+
+### FINDING 1: Beta-Blockers — Adrenergic Axis as a PDAC Driver
+
+**FINDING:** 
+Preclinical studies have suggested that β-adrenergic signaling is involved in pancreatic cancer progression, prompting population-level investigation of beta-blocker use and cancer-specific survival in PDAC.
+ A large Swedish population cohort found 
+results supporting the concept that beta-blocker drugs may improve the survival of PDAC patients, particularly among those with localized disease.
+ In a SEER-Medicare analysis, 
+continuous beta-blocker usage was associated with improved survival (HR 0.86, 95% CI 0.8–0.9, p < 0.01), though beta-blocker usage before diagnosis alone did not confer a survival advantage.
+
+
+**MECHANISM:** 
+Beta-2 adrenergic antagonists suppress invasion and proliferation by inhibiting both cAMP/PKA and Ras pathways, which regulate activation of the MAPK pathway and transcription factors such as NF-κB, AP-1, and CREB, as well as expression of their target genes MMP-9, MMP-2, and VEGF.
+ 
+Several actions of beta-blockers may impact PDAC tumors, including direct effects on tumor cells (by modulating metabolism, proliferation, invasion, and apoptosis), indirectly on the tumor vasculature (e.g., angiogenesis), or via impact on anti-cancer immunity.
+ Additionally, 
+psychological effects including stress can increase endogenous catecholamines and cancer growth, cardiovascular death, and suicide, particularly with poor prognosis cancers including PDAC.
+
+
+**CURRENT DRUG/TARGET:** 
+Particularly nonselective types such as propranolol may inhibit downstream consequences of catecholamine stimulation, but clinical data from pancreatic cancer patients are still scarce.
+
+
+**GAP:** The survival benefit appears contingent on *continuous* use before and after diagnosis, not pre-diagnosis use alone, raising the question of whether beta-blockers work by modulating tumor biology directly or by suppressing stress-driven disease progression. No prospective RCT has been completed.
+
+---
+
+### FINDING 2: H1-Antihistamines — HRH1 Overexpression in PDAC Cells
+
+**FINDING:** 
+Epidemiologic studies have found that patients with PDAC prescribed H1-antihistamines have improved survival. Expression of the histamine H1 receptor (HRH1) is increased by approximately 20-fold in PDAC tumors compared with normal pancreas.
+
+
+**MECHANISM:** 
+HRH1 is primarily expressed in cancer cells of PDAC tumors and signals via G protein q/11 to increase intracellular Ca²⁺. HRH1 activation increases migration and invasion by PDAC cancer cells.
+ Critically, fexofenadine, a non-sedating H1-antihistamine, achieved tumor penetration in KPC mice: 
+orally administered fexofenadine was bioavailable in the tumors of KPC mice and yielded smaller pancreatic tumor tissue weights and lower expression of immunomodulatory (IL-6 and PD-1) and fibrotic (Col1A1) genes, suggesting that repurposing of approved H1-antihistamines may be an efficacious and safe therapeutic approach.
+
+
+**CURRENT DRUG/TARGET:** Fexofenadine (Allegra), loratadine, desloratadine. 
+Desloratadine and loratadine have been shown to increase the survival rate for many tumors by inhibiting tumor growth and promoting apoptotic cell death.
+
+
+**GAP:** No prospective PDAC-specific clinical trial has enrolled patients on the strength of these mechanistic findings. The downstream Ca²⁺ signaling cascade from HRH1 to KRAS/MAPK crosstalk is not yet fully characterized.
+
+---
+
+### FINDING 3: Antifungals and the Intratumoral Mycobiome — The Malassezia–Complement Axis
+
+**FINDING:** 
+Mycobiome ablation or treatment with the antifungal agent amphotericin B in two mouse PDAC models protected against PDAC progression and potentiated gemcitabine-based chemotherapy. Following amphotericin B treatment, repopulation with Malassezia globosa accelerated the growth of PDAC tumors.
+
+
+**MECHANISM:** There are two distinct but synergistic arms:
+- **Lectin-Complement Arm:** 
+Deletion of the gene encoding mannose-binding lectin MBL, a protein that activates the lectin pathway of the complement cascade upon recognition of pathogenic fungi, protected against PDAC tumor development in mice, as did deletion of the gene encoding complement component C3.
+
+- **IL-33/Type 2 Immunity Arm:** 
+Activation of the dectin-1-mediated Src-Syk-CARD9-NFkB pathway tracks with the secretion of IL-33 from PDAC cells. Dectin-1 is not expressed in normal human pancreatic cells.
+ 
+Upon secretion, IL-33 recruits TH2 and ILC2 cells. Deletion of IL-33 leads to increased survival and a significant decrease in tumor burden.
+
+
+**CURRENT DRUG/TARGET:** Amphotericin B (confirmed preclinically). 
+Positive correlation between MBL and C3 with poor survival has been confirmed in PDAC patients.
+
+
+**GAP:** No clinical antifungal PDAC trial exists. The optimal antifungal agent (systemic vs. gut-targeted to intercept the gut-to-pancreas fungal migration route), dosing duration, and interaction with gemcitabine dosing schedule are undefined.
+
+---
+
+### FINDING 4: Complement Inhibition as a Direct Target
+
+**FINDING:** 
+The complement system plays a prominent role in PDAC. It shapes T cell-mediated immune response and directly affects proliferation and apoptosis of tumor cells, influencing angiogenesis, metastatic spread, and therapeutic resistance. This makes complement proteins appealing not only as early biomarkers of PDAC development but also as therapeutic targets.
+
+
+**MECHANISM:** 
+Upon MBL binding to Malassezia glycans, complement elements C2 and/or C4 are activated through serine-related proteases. Mice lacking MBL exhibited delayed oncogenic progression, and Malassezia could not accelerate PDAC progression in MBL-null mice. The central complement component C3 was also considered a key determinant in PDAC oncogenesis.
+
+
+**CURRENT DRUG/TARGET:** Complement-targeting biologics (eculizumab targets C5; avacopan targets C5aR1) are approved for autoimmune/rare diseases. No complement inhibitor is approved or in a PDAC trial.
+
+**GAP:** The precise node of complement intervention most beneficial in PDAC (MBL,
+
+======================================================================
+CROSS-DOMAIN HYPOTHESES
+======================================================================
+
+# CROSS-DOMAIN SYNTHESIS: THREE NOVEL HYPOTHESES FOR PDAC
+
+---
+
+## HYPOTHESIS 1: Antifungal-Primed KRAS Inhibition — Mycobiome Clearance as a Sensitization Strategy for Pan-KRAS Suppression
+
+**HYPOTHESIS:** Sequential administration of antifungal therapy to ablate *Malassezia*-driven complement activation, followed by pan-RAS inhibitor daraxonrasib, will produce synergistic tumor suppression by eliminating a parallel oncogenic signaling axis that otherwise maintains KRAS-independent tumor cell survival.
+
+**MECHANISM:** *Malassezia* drives oncogenic progression specifically through MBL-lectin pathway complement activation and downstream C3ar signaling on tumor cells — a pathway that is entirely parallel to, and independent of, KRAS-RAS-MAPK signaling. When KRAS is pharmacologically suppressed by daraxonrasib, tumor cells under selection pressure can exploit residual C3ar-mediated survival signaling as an escape route. Pre-clearing *Malassezia* with antifungal therapy collapses this parallel axis before KRAS inhibition is applied, removing a probable mechanism of adaptive resistance. Additionally, beta-2 adrenergic signaling (from the Drug Repurposing agent) converges on MAPK and NF-κB — the same downstream nodes activated by both KRAS and complement — meaning the three axes share effectors and co-suppression should be non-linear.
+
+**CONNECTS:**
+- **Microbiome Specialist → KRAS Specialist:** *Malassezia*-driven C3ar signaling activates the same MAPK/NF-κB nodes that daraxonrasib targets downstream of KRAS. The microbiome finding *mechanistically explains* why KRAS inhibitors might show incomplete response — tumor cells have a fungus-supplied bypass.
+- **Drug Repurposing Specialist → both:** Beta-blocker suppression of cAMP/PKA/Ras/MAPK/NF-κB provides a third convergent suppression point on the shared effector layer.
+
+**INTERVENTION:**
+1. **Week 1–4:** Oral fluconazole 400 mg/day (or IV amphotericin B 0.5 mg/kg/day for fluconazole-resistant cases) to ablate intratumoral *Malassezia*. Confirm mycobiome clearance by stool/tumor biopsy ITS2 sequencing at Day 28.
+2. **Week 5 onward:** Daraxonrasib at trial-established dose (anticipated 600–800 mg BID based on KRAS G12X trial protocols) initiated after confirmed mycobiome suppression.
+3. **Concurrent from Week 1:** Propranolol 40 mg BID (non-selective beta-blocker to suppress adrenergic-MAPK co-activation).
+4. Maintenance: Continue antifungal suppression (fluconazole 200 mg/day) throughout daraxonrasib course to prevent *Malassezia* recolonization.
+
+**PATIENT SELECTION:**
+- PDAC patients with confirmed KRAS G12D, G12V, or G12R mutations (the 90% not served by G12C inhibitors) — identified by standard tumor genotyping.
+- Patients with detectable intratumoral *Malassezia* burden by pre-treatment EUS-guided biopsy ITS2 sequencing or salivary mycobiome enrichment (since *Malassezia* is an oral commensal, salivary abundance may serve as a non-invasive surrogate).
+- Prioritize locally advanced or metastatic patients ineligible for resection, for whom daraxonrasib is already the most promising systemic option.
+- Exclude patients with active azole-resistant fungal infections or contraindications to beta-blockade (bronchospasm, severe bradycardia).
+
+**EXPERIMENT:**
+- **In vitro (Months 1–2):** Co-culture PDAC cell lines (PANC-1 G12D, MIA PaCa-2 G12V) with *Malassezia globosa* or *M. restricta*. Measure C3ar surface expression and downstream pERK/pAKT in the presence vs. absence of daraxonrasib ± fluconazole. Establish whether *Malassezia* co-culture shifts the IC50 of daraxonrasib upward (confirming parallel resistance axis).
+- **In vivo (Months 3–5):** KPC mouse model (LSL-KRAS^G12D): randomize to (A) vehicle, (B) fluconazole alone, (C) daraxonrasib alone, (D) sequential fluconazole → daraxonrasib, (E) triple with propranolol. Primary endpoint: tumor volume by MRI at 8 weeks. Secondary: survival, intratumoral C3ar signaling by IHC, mycobiome composition by ITS2.
+- **Readout by Month 6:** Synergy score (Bliss independence) from in vitro data; tumor volume reduction in arm D vs. C in murine model.
+
+**ESTIMATED COST:** $180,000–$250,000 for the full 6-month pilot (cell line work ~$40K; KPC mouse cohort of n=50 across 5 arms ~$120K; sequencing and IHC ~$50K; drug costs for mouse studies ~$20K).
+
+**WHY NOBODY HAS DONE THIS:** Daraxonrasib only received Breakthrough Therapy designation in June 2025 — it has not existed long enough to be combined with anything in a rationally designed study. The *Malassezia*-complement-C3ar axis in PDAC was itself described only in the last 3 years and has never been framed as a resistance mechanism to KRAS inhibition. The communities studying mycobiome and KRAS pharmacology are almost entirely separate, attending different conferences and publishing in different journals. The proposal to use antifungal pre-treatment as a resistance-prevention strategy for a targeted oncology drug has no precedent in the PDAC literature.
+
+**CONFIDENCE:** Medium — The parallel signaling logic is mechanistically sound, but the actual magnitude of *Malassezia*-driven resistance to KRAS inhibitors is unquantified and could be minor rather than dominant.
+
+---
+
+## HYPOTHESIS 2: Salivary *Malassezia* Burden as a Pharmacodynamic Biomarker for Beta-Blocker Efficacy in PDAC, Enabling Stratified Adrenergic Blockade
+
+**HYPOTHESIS:** Patients with high salivary *Malassezia* abundance represent a biologically distinct PDAC subgroup in whom beta-blocker therapy will be specifically more effective, because adrenergic signaling and *Malassezia*-complement activation co-amplify NF-κB and MAPK through additive inputs, and co-suppression of both axes with propranolol plus antifungal therapy will yield survival benefit exceeding either intervention alone in this molecularly defined subgroup.
+
+**MECHANISM:** Beta-2 adrenergic receptor activation drives NF-κB and MAPK through cAMP/PKA/Ras — a pathway that shares transcriptional effectors (MMP-9, MMP-2, VEGF, AP-1, CREB) with C3ar-mediated complement signaling downstream of *Malassezia*. In patients with high *Malassezia* burden, the complement axis is constitutively active, meaning NF-κB and MAPK are already partially saturated from the fungal input. This creates a synthetic vulnerability: beta-blocker therapy suppresses the adrenergic contribution to the same nodes, and antifungal therapy removes the fungal contribution, producing combinatorial suppression of a shared effector hub that neither agent can fully suppress alone. The salivary *Malassezia* detection provides a minimally invasive, longitudinally trackable proxy for intratumoral burden, enabling real-time pharmacodynamic monitoring without repeat biopsy.
+
+**CONNECTS:**
+- **Microbiome Specialist → Drug Repurposing Specialist:** *Malassezia* is now known to be a prevalent oral commensal detectable in saliva of healthy individuals. The Drug Repurposing agent identifies beta-blockers as active in PDAC via NF-κ
